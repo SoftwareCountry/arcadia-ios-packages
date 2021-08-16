@@ -1,0 +1,21 @@
+{
+  "name": "Arcadia Package Collection",
+  "overview": "A collection of packages we can approve for usage based on experience.",
+  "packages": [
+    {
+      "url": "https://github.com/hmlongco/Resolver.git"
+    },
+    {
+      "url": "https://github.com/siteline/SwiftUI-Introspect.git"
+    },
+    {
+      "url": "https://github.com/CombineCommunity/CombineExt"
+    },
+    {
+      "url": "https://github.com/vtourraine/ThirdPartyMailer.git"
+    }
+  ],
+  "author": {
+    "name": "Arcadia"
+  }
+}
